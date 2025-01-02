@@ -1,0 +1,4 @@
+2025-01-02 08:50:36,744 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\train.csv
+2025-01-02 08:50:37,268 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\store.csv
+2025-01-02 08:50:46,565 - EDA - INFO - Cleaning data: handling missing values and outliers.
+2025-01-02 08:50:58,884 - Visualization - INFO - Plotting promotion distribution.
