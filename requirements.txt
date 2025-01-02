@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+logging
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+statsmodels 
+tensorflow  
