@@ -16,3 +16,15 @@
 2025-01-02 09:07:04,951 - Visualization - INFO - Plotting promotion distribution.
 2025-01-02 09:07:08,671 - Visualization - INFO - Plotting sales vs customers scatter plot.
 2025-01-02 09:07:15,447 - EDA - INFO - Cleaning data: handling missing values and outliers.
+2025-01-11 10:06:51,321 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\train.csv
+2025-01-11 10:06:51,914 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\store.csv
+2025-01-13 23:44:51,153 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\train.csv
+2025-01-13 23:44:51,788 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\store.csv
+2025-01-13 23:45:20,767 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\train.csv
+2025-01-13 23:45:21,357 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\store.csv
+2025-01-13 23:45:21,362 - EDA - INFO - Loading data from c:\Users\hp\Desktop\10Academy\Rossmann-sales-forecast\data\rossmann-store-sales\test.csv
+2025-01-13 23:47:17,626 - EDA - INFO - Cleaning data: handling missing values and outliers.
+2025-01-13 23:58:38,028 - EDA - INFO - Cleaning data: handling missing values and outliers.
+2025-01-13 23:58:59,681 - EDA - INFO - Cleaning data: handling missing values and outliers.
+2025-01-13 23:59:13,907 - Visualization - INFO - Plotting promotion distribution.
+2025-01-13 23:59:15,244 - Visualization - INFO - Saved promo distribution plot to outputs/eda\promo_distribution.png
